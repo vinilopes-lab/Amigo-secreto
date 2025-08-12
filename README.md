@@ -7,7 +7,11 @@ O projeto foi desenvolvido utilizando HTML, CSS e JavaScript puro.
 📸 Demonstração
 
  Estrutura do Projeto
+ 
 index.html → Estrutura base do app
+
 style.css → Estilização e layout responsivo
+
 app.js → Lógica do sorteio e manipulação do DOM
+
 assets/ → Imagens utilizadas no projeto
